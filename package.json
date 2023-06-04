@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "gurmukhi-utils": "^3.2.2",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
