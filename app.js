@@ -2,7 +2,6 @@ import fs from "fs";
 import csv from "csvtojson";
 import { Parser } from "json2csv";
 import gurmukhiUtils from "gurmukhi-utils";
-import { log } from "console";
 
 (async () => {
   const flashcards = await csv({ delimiter: "\t" }).fromFile(
